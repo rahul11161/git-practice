@@ -1,0 +1,13 @@
+git --version - to check the install git version
+git config --global user.name (username)
+git config --global user.email (email)
+git init 
+git status
+git add filename
+git commit -m -- commit file to push into git.
+git branch (branch name) -- to add new branch
+git checkout (branch name) -- to switch to new branch
+git merge (branch name) -- to merge branch from antoher branch.
+git log -- to show all the commits in branch
+git show commit_id -- to show changes in the commit
+git show commit_id file_name -- to show changes in file.
